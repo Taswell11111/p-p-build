@@ -1,0 +1,7 @@
+{
+  "name": "PEP Stores Cellular Front-End Dev & QA Lab",
+  "description": "Interactive front-end development, testing, and QA workbench for the PEP Stores Cellular storefront (pepstores.com/pages/cellular & pep-ecom-qa), featuring live Shopify Liquid section simulators, responsive viewport audits, and carrier filter sandboxes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

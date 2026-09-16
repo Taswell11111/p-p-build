@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --pep-blue: #005596;
+    --pep-blue-dark: #003d6d;
+    --pep-blue-light: #e6f0fa;
+    --pep-yellow: #ffd200;
+    --pep-yellow-hover: #e6bd00;
+    --pep-red: #e31b23;
+  }
+
+  body {
+    font-family: 'Livvic', sans-serif;
+    color: #1f2937;
+    background-color: #f8fafc;
+    -webkit-font-smoothing: antialiased;
+  }
+}
